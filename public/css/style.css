@@ -1,0 +1,17 @@
+body {
+	background: url('../img/stanleycup.jpg');
+	font-weight: bold;
+	font-size: 20px;
+}
+
+ul {
+	background-color: orange;
+	margin: 30px;
+}
+
+header {
+	text-align: center;
+	background-color: orange;
+	margin-left: 150px;
+	margin-right: 150px;
+}
